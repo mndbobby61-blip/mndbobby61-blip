@@ -1,58 +1,114 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=200&section=header&text=Md%20Rabbi%20Sarder&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Web%20Developer&descAlignY=55&descSize=18" alt="Banner" width="100%" />
+# Hi, I'm Md Rabbi Sarder 👋
 
-# Hi 👋, I'm Md Rabbi Sarder
+**Junior Full-Stack Web Developer** focused on building responsive, full-stack web applications with **React.js**, **Node.js**, and the **MERN stack**.
 
-### A passionate frontend developer from Bangladesh
+📍 Dhaka, Bangladesh &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/md-rabbi-sarder-rabbi-3691453b6/) &nbsp;|&nbsp; 📧 [mndbobby61@gmail.com](mailto:mndbobby61@gmail.com) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/mndbobby61-blip)
 
-I love building clean, responsive, and user-friendly websites. I enjoy turning ideas into real web pages using HTML, CSS, JavaScript, and React. I am always excited to learn new tools and improve my skills.
+---
 
-- 🌱 I am exploring **React.js and Next.js**
-- 💻 I'm working on **a tourism website**
-- 💬 Ask me about **React, JavaScript, Tailwind CSS**
-- 📫 How to reach me: **mndbobby61@gmail.com**
-- 📍 Location: **Dhaka, Bangladesh**
+## 🙋 About Me
 
-### Connect with me:
+I'm a self-taught Full-Stack developer with hands-on, project-based training. I build full-stack web apps with a focus on clean UI, responsive design, and connecting the frontend to real backend APIs and databases.
 
-<p left="left">
-<a href="https://www.linkedin.com/in/md-rabbi-sarder-rabbi-3691453b6/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
-<a href="https://github.com/mndbobby61-blip" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/></a>
+- 🔭 Currently working on improving my **React.js** and **Next.js** skills
+- 🌱 Currently learning: **Node.js, Express.js, MongoDB, Next.js**
+- 💬 Open to: **Junior Frontend, Junior Full-Stack, or Remote entry-level roles**
+- 🚀 Currently building: **a tourism website**
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+<p align="left">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-### Languages and Tools:
+**Backend & Database**
 
-<p left="left">
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.w3.org/style/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40"/></a>
+<p align="left">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-### 🚀 Featured Projects
+**Tools & Deployment**
 
-**[Property Rental](https://property-rental-b918.vercel.app/)**
+<p align="left">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏠 [Property Rental](https://property-rental-b918.vercel.app/)
+`React` `JavaScript` `Vercel`
+
 A property rental web application where users can browse, search, and view rental properties with details like price, location, and features.
-`React` `JavaScript`
-🔗 Live: https://property-rental-b918.vercel.app/ | 💻 Code: https://github.com/mndbobby61-blip/property-rental
 
-**[Doctor Appointment](https://assignment-9-client-beta.vercel.app/)**
+- 🔍 Search and filter properties by location and price
+- 📱 Fully responsive design across all devices
+- ⚡ Fast, clean, and simple browsing experience
+
+🔗 [Live Site](https://property-rental-b918.vercel.app/) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/mndbobby61-blip/property-rental)
+
+---
+
+### 🩺 [Doctor Appointment](https://assignment-9-client-beta.vercel.app/)
+`React` `JavaScript` `Vercel`
+
 A doctor appointment booking web application where users can search doctors, view availability, and book appointments easily.
-`React` `JavaScript`
-🔗 Live: https://assignment-9-client-beta.vercel.app/ | 💻 Code: https://github.com/mndbobby61-blip/docappoint-client-
 
-**[Summer Store](https://assignment-8th-yc3x.vercel.app/)**
+- 👨‍⚕️ Browse and search available doctors
+- 📅 Book appointments with a simple, clean UI
+- 📱 Responsive layout for mobile and desktop
+
+🔗 [Live Site](https://assignment-9-client-beta.vercel.app/) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/mndbobby61-blip/docappoint-client-)
+
+---
+
+### 🛍️ [Summer Store](https://assignment-8th-yc3x.vercel.app/)
+`HTML` `CSS` `JavaScript` `Vercel`
+
 A summer-themed online store web application where users can browse products, view details, and add items to cart.
-`HTML` `CSS` `JavaScript`
-🔗 Live: https://assignment-8th-yc3x.vercel.app/ | 💻 Code: https://github.com/mndbobby61-blip/summer-store
 
-### 📊 GitHub Stats
+- 🛒 Add-to-cart functionality
+- 🎨 Clean, summer-themed UI design
+- 📱 Fully responsive across devices
+
+🔗 [Live Site](https://assignment-8th-yc3x.vercel.app/) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/mndbobby61-blip/summer-store)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=mndbobby61-blip&show_icons=true&theme=radical" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mndbobby61-blip&theme=radical" width="48%" />
 </p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mndbobby61-blip&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm actively looking for junior frontend or full-stack opportunities. Feel free to explore my projects above or reach out directly.
+
+- 💼 LinkedIn: [linkedin.com/in/md-rabbi-sarder-rabbi-3691453b6](https://www.linkedin.com/in/md-rabbi-sarder-rabbi-3691453b6/)
+- 📧 Email: [mndbobby61@gmail.com](mailto:mndbobby61@gmail.com)
+- 🐙 GitHub: [github.com/mndbobby61-blip](https://github.com/mndbobby61-blip)
