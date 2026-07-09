@@ -33,6 +33,23 @@ I love building clean, responsive, and user-friendly websites. I enjoy turning i
 <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40"/></a>
 </p>
 
+### 🚀 Featured Projects
+
+**[Property Rental](https://property-rental-b918.vercel.app/)**
+A property rental web application where users can browse, search, and view rental properties with details like price, location, and features.
+`React` `JavaScript`
+🔗 Live: https://property-rental-b918.vercel.app/ | 💻 Code: https://github.com/mndbobby61-blip/property-rental
+
+**[Doctor Appointment](https://assignment-9-client-beta.vercel.app/)**
+A doctor appointment booking web application where users can search doctors, view availability, and book appointments easily.
+`React` `JavaScript`
+🔗 Live: https://assignment-9-client-beta.vercel.app/ | 💻 Code: https://github.com/mndbobby61-blip/docappoint-client-
+
+**[Summer Store](https://assignment-8th-yc3x.vercel.app/)**
+A summer-themed online store web application where users can browse products, view details, and add items to cart.
+`HTML` `CSS` `JavaScript`
+🔗 Live: https://assignment-8th-yc3x.vercel.app/ | 💻 Code: https://github.com/mndbobby61-blip/summer-store
+
 ### 📊 GitHub Stats
 
 <p align="left">
