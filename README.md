@@ -1,6 +1,8 @@
+<img src="./banner.jpg" alt="Banner" width="100%" />
+
 # Hi, I'm Md Rabbi Sarder 👋
 
-**Junior Full-Stack Web Developer** focused on building responsive, full-stack web applications with **React.js**, **Node.js**, and the **MERN stack**.
+**Junior Full-Stack Web Developer** who loves building simple, clean, and responsive websites using **React.js**, **Node.js**, and the **MERN stack**.
 
 📍 Dhaka, Bangladesh &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/md-rabbi-sarder-rabbi-3691453b6/) &nbsp;|&nbsp; 📧 [mndbobby61@gmail.com](mailto:mndbobby61@gmail.com) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/mndbobby61-blip)
 
@@ -8,12 +10,12 @@
 
 ## 🙋 About Me
 
-I'm a self-taught Full-Stack developer with hands-on, project-based training. I build full-stack web apps with a focus on clean UI, responsive design, and connecting the frontend to real backend APIs and databases.
+I am a self-taught web developer. I like building websites that look clean and work well. I enjoy writing simple code and making pages that are easy to use. I am always learning new things to become a better developer.
 
-- 🔭 Currently working on improving my **React.js** and **Next.js** skills
-- 🌱 Currently learning: **Node.js, Express.js, MongoDB, Next.js**
-- 💬 Open to: **Junior Frontend, Junior Full-Stack, or Remote entry-level roles**
-- 🚀 Currently building: **a tourism website**
+- 🔭 Right now, I am improving my **React.js** and **Next.js** skills
+- 🌱 I am learning: **Node.js, Express.js, MongoDB, Next.js**
+- 💬 I am open to: **Junior Frontend or Junior Full-Stack roles**
+- 🚀 I am building: **a tourism website**
 
 ---
 
@@ -56,11 +58,11 @@ I'm a self-taught Full-Stack developer with hands-on, project-based training. I 
 ### 🏠 [Property Rental](https://property-rental-b918.vercel.app/)
 `React` `JavaScript` `Vercel`
 
-A property rental web application where users can browse, search, and view rental properties with details like price, location, and features.
+A property rental website where users can search and view rental homes with price, location, and other details.
 
 - 🔍 Search and filter properties by location and price
-- 📱 Fully responsive design across all devices
-- ⚡ Fast, clean, and simple browsing experience
+- 📱 Works well on mobile and desktop
+- ⚡ Simple and fast browsing experience
 
 🔗 [Live Site](https://property-rental-b918.vercel.app/) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/mndbobby61-blip/property-rental)
 
@@ -69,11 +71,11 @@ A property rental web application where users can browse, search, and view renta
 ### 🩺 [Doctor Appointment](https://assignment-9-client-beta.vercel.app/)
 `React` `JavaScript` `Vercel`
 
-A doctor appointment booking web application where users can search doctors, view availability, and book appointments easily.
+A doctor appointment booking website where users can search doctors and book appointments easily.
 
 - 👨‍⚕️ Browse and search available doctors
-- 📅 Book appointments with a simple, clean UI
-- 📱 Responsive layout for mobile and desktop
+- 📅 Book appointments with a simple, clean design
+- 📱 Fully responsive on all screen sizes
 
 🔗 [Live Site](https://assignment-9-client-beta.vercel.app/) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/mndbobby61-blip/docappoint-client-)
 
@@ -82,11 +84,11 @@ A doctor appointment booking web application where users can search doctors, vie
 ### 🛍️ [Summer Store](https://assignment-8th-yc3x.vercel.app/)
 `HTML` `CSS` `JavaScript` `Vercel`
 
-A summer-themed online store web application where users can browse products, view details, and add items to cart.
+A summer-themed online store where users can browse products and add items to their cart.
 
-- 🛒 Add-to-cart functionality
-- 🎨 Clean, summer-themed UI design
-- 📱 Fully responsive across devices
+- 🛒 Add items to cart
+- 🎨 Clean, colorful summer design
+- 📱 Responsive on every device
 
 🔗 [Live Site](https://assignment-8th-yc3x.vercel.app/) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/mndbobby61-blip/summer-store)
 
@@ -95,20 +97,29 @@ A summer-themed online store web application where users can browse products, vi
 ## 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mndbobby61-blip&show_icons=true&theme=radical" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mndbobby61-blip&theme=radical" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mndbobby61-blip&show_icons=true&theme=tokyonight" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mndbobby61-blip&theme=tokyonight" width="48%" />
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mndbobby61-blip&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mndbobby61-blip&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+## 🏆 Certifications
+
+- 🏆 **Complete Web Development with MERN Stack** — Programming Hero, 2026
+- ✅ **Responsive Web Design / JavaScript / React** — freeCodeCamp
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm actively looking for junior frontend or full-stack opportunities. Feel free to explore my projects above or reach out directly.
+I am looking for junior frontend or full-stack developer jobs. Feel free to check out my projects above or message me directly.
 
 - 💼 LinkedIn: [linkedin.com/in/md-rabbi-sarder-rabbi-3691453b6](https://www.linkedin.com/in/md-rabbi-sarder-rabbi-3691453b6/)
 - 📧 Email: [mndbobby61@gmail.com](mailto:mndbobby61@gmail.com)
 - 🐙 GitHub: [github.com/mndbobby61-blip](https://github.com/mndbobby61-blip)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=100&section=footer" alt="Footer" width="100%" />
