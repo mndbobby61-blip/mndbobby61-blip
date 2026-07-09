@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:2E9EF7&height=230&section=header&text=MD%20BOBBY&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Frontend%20Developer%20%7C%20Building%20Responsive%2C%20User-Friendly%20Web%20Experiences&descAlignY=52&descSize=16" alt="Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:2E9EF7&height=230&section=header&text=MD%20RABBI%20SARDER&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Frontend%20Developer%20%7C%20Building%20Responsive%2C%20User-Friendly%20Web%20Experiences&descAlignY=52&descSize=16" alt="Banner" width="100%" />
 
 # Hi, I'm Md Rabbi Sarder 👋
 
