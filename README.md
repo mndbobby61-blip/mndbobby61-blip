@@ -2,7 +2,7 @@
 
 # Hi, I'm Md Rabbi Sarder 👋
 
-**Junior Full-Stack Web Developer** who loves building simple, clean, and responsive websites using **React.js**, **Node.js**, and the **MERN stack**.
+**Full-Stack Web Developer** who loves building simple, clean, and responsive websites using **React.js**, **Node.js**, and the **MERN stack**.
 
 📍 Dhaka, Bangladesh &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/md-rabbi-sarder-rabbi-3691453b6/) &nbsp;|&nbsp; 📧 [mndbobby61@gmail.com](mailto:mndbobby61@gmail.com) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/mndbobby61-blip)
 
@@ -14,7 +14,7 @@ I am a self-taught web developer. I like building websites that look clean and w
 
 - 🔭 Right now, I am improving my **React.js** and **Next.js** skills
 - 🌱 I am learning: **Node.js, Express.js, MongoDB, Next.js**
-- 💬 I am open to: **Junior Frontend or Junior Full-Stack roles**
+- 💬 I am open to: ** Frontend or Full-Stack roles**
 - 🚀 I am building: **a tourism website**
 
 ---
